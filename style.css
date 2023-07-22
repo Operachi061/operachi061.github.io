@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+.text {
+    font-family: 'Lora', serif;
+    margin: -300px 200px;
+    font-size: 20px;
+}
+.aboutme {
+    font-family: 'Lora', serif;
+    margin: 50px 540px;
+    font-size: 30px;
+}
