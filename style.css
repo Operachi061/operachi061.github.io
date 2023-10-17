@@ -1,11 +1,52 @@
 @import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
 .text {
     font-family: 'Lora', serif;
-    margin: -300px 200px;
-    font-size: 20px;
+    color: rgb(0, 255, 0);
+    margin: -200px 0px;
+    font-size: 17px;
+}
+.text2 {
+    font-family: 'Lora', serif;
+    color: rgb(0, 255, 0);
+    margin: 200px 0px;
+    font-size: 17px;
+}
+.text3 {
+    font-family: 'Lora', serif;
+    color: rgb(0, 255, 0);
+    margin: -200px 0px;
+    font-size: 17px;
+}
+.text4 {
+    font-family: 'Lora', serif;
+    color: rgb(0, 255, 0);
+    margin: 200px 0px;
+    font-size: 17px;
+}
+.text5 {
+    font-family: 'Lora', serif;
+    color: rgb(0, 255, 0);
+    margin: -200px 0px;
+    font-size: 17px;
+}
+.text6 {
+    font-family: 'Lora', serif;
+    color: rgb(0, 255, 0);
+    margin: 200px 0px;
+    font-size: 17px;
+}
+.text7 {
+    font-family: 'Lora', serif;
+    color: rgb(0, 255, 0);
+    margin: -200px 0px;
+    font-size: 17px;
 }
 .aboutme {
     font-family: 'Lora', serif;
+    color: rgb(0, 255, 0);
     margin: 50px 540px;
     font-size: 30px;
+}
+body {
+    background-color: black;
 }
