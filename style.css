@@ -41,11 +41,59 @@
     margin: -200px 0px;
     font-size: 17px;
 }
+.text8 {
+    font-family: 'Lora', serif;
+    color: rgb(0, 255, 0);
+    margin: 200px 0px;
+    font-size: 17px;
+}
+.text9 {
+    font-family: 'Lora', serif;
+    color: rgb(0, 255, 0);
+    margin: -200px 0px;
+    font-size: 17px;
+}
+.voidtext {
+    font-family: 'Lora', serif;
+    color: rgb(0, 255, 0);
+    margin: 10px 0px;
+    font-size: 17px;
+}
+.dmenutext {
+    font-family: 'Lora', serif;
+    color: rgb(0, 255, 0);
+    margin: 5px 0px;
+    font-size: 17px;
+}
 .aboutme {
     font-family: 'Lora', serif;
     color: rgb(0, 255, 0);
     margin: 50px 540px;
     font-size: 30px;
+}
+.orc {
+    font-family: 'Lora', serif;
+    color: rgb(0, 255, 0);
+    margin: 50px 510px;
+    font-size: 24px;
+}
+.rtext {
+    font-family: 'Lora', serif;
+    color: rgb(0, 255, 0);
+    margin: -100px 0px;
+    font-size: 17px;
+}
+.rtext2 {
+    font-family: 'Lora', serif;
+    color: rgb(0, 255, 0);
+    margin: 200px 0px;
+    font-size: 17px;
+}
+.rtext3 {
+    font-family: 'Lora', serif;
+    color: rgb(0, 255, 0);
+    margin: 100px 0px;
+    font-size: 17px;
 }
 body {
     background-color: black;
