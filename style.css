@@ -6,6 +6,11 @@
     text-decoration: none;
 }
 
+.button {
+  transition: 0.15s;
+  color: #ffffff;
+}
+
 .headtext {
     margin: 50px;  
     position: justify;
@@ -14,11 +19,6 @@
     margin-bottom: 200px; 
 }
 
-.button {
-  transition: 0.3s;
-  color: #ffffff;
-}
-
 .links { margin-top: 40px; }
-.button:hover { color: #999999;}
+.button:hover { color: #DADADA;}
 body { background-color: #181818; }
