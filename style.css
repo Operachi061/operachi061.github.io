@@ -1,3 +1,10 @@
+a {
+  transition: 0.15s;
+  color: #ffffff;
+  text-decoration: none;
+}
+a:hover { color: #dadada }
+
 body {  
   margin: 2em auto;
   max-width: 40em;
@@ -7,10 +14,3 @@ body {
   color: #ffffff;
   background: #000000;
 }
-a { text-decoration: none }
-
-.button {
-  transition: 0.15s;
-  color: #ffffff;
-}
-.button:hover { color: #dadada }
